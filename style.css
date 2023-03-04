@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: monospace, sans-serif; font-size: 30px;
+}
+span{
+    color: #ff0000 !important; /*se colocar important o codigo do html nao vai sobrepor*/
+}
+.card{
+    width: 500px;
+    height: fit-content;
+    background-color: #d494ffa8; 
+    border-radius: 10px; 
+    border: solid 5px #022419;
+}
+.boxImage{
+    width: 100px; 
+    height: 100px;
+    background: #022419; 
+    border: 1px solid #022419; 
+    border-radius: 50px;
+}
+#estiloH1{
+    font-family: monospace, sans-serif;
+    font-size: 30px;
+}
+.estiloRosa{
+    color: magenta;
+}
